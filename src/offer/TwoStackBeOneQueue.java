@@ -6,7 +6,7 @@ public class TwoStackBeOneQueue {
     Stack<Integer> stack2 = new Stack<Integer>();
 
     public void push(int node) {
-
+        System.out.println("whatever");
     }
 
     public int pop() {
